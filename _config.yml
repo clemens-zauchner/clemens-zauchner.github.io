@@ -6,6 +6,7 @@ title: "Clemens Zauchner"
 description: "Clemens' Blog"
 
 
+
 # author
 author:
   first_name: 'Clemens'
@@ -17,4 +18,11 @@ author:
   head_img: ''
   desc: 'Lorem ipsum'
 
+
+# markdown
+highlighter: rouge
 markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
