@@ -4,3 +4,10 @@ theme: jekyll-theme-minimal
 
 title: "Clemens Zauchner"
 description: "Clemens' Blog"
+
+# markdown
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
